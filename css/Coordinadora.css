@@ -1,0 +1,41 @@
+.Header {
+    font-family: 'Lato', sans-serif;
+    background: black;
+    display: flex;
+    height: 65px;
+    
+
+}
+.imagen{
+    padding-left: 10px;
+    padding-top: 10px;
+}
+.yellow{
+    height: 65px;
+    background-color:#ffb800;
+    margin-left: 1152px;
+    width: 150px;
+    text-align: center;
+}
+.boton{
+    padding-top: 20px;
+}
+.boton a{
+    padding-top: 20px;
+    text-decoration: none;
+    color: white;
+    font-size: 20px;
+    
+    
+    
+
+}
+.cerrarsesion{
+    background-color: #88db31;
+}
+
+body{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
